@@ -12,3 +12,4 @@ Project Tasks	Key Concepts Covered
 9. Verify site via domain.
 10. Create Let's Encrypt certificate and configure Nginx.
 11. Validate SSL with OpenSSL.
+12.test
